@@ -1,0 +1,288 @@
+.wrapper{
+	padding:1px;
+	margin:2px;
+	width:100%;
+	height:1050px;	
+	background-image: linear-gradient(to bottom,
+				rgba(1,103,55,1), rgba(1,103,55,0));
+
+}
+
+.header{
+	width:100%;
+	height:150px
+}
+
+.icons{
+		width:100%;
+		height:50px;
+		text-align: right;
+		float: left;
+		background-color:black;
+		color: white;
+		
+}
+
+.header_title{
+	border: 1px solid black;
+		width:100%;
+		height:200px;
+		text-align: center;
+		font-size: 40px;
+		background-color: #15192F;
+		color: white;
+		font-style: Verdana (sans-serif);
+		
+}
+
+.header_logo1{
+	width: 10%;
+	height: 100px;
+	float: left;
+	border-radius: 90px;
+	
+}
+
+.header_logo2{
+	width: 10%;
+	height: 100px;
+	float: right;
+	border-radius: 90px;
+}
+
+.content_start{
+		width:100%;
+		height:100px;
+		margin: 4px;
+}
+
+.banner{
+	border: 1px solid black;
+	padding: 2px;
+	width:50%;
+	height:50px;
+	font-size: 20px;
+	background-color: #0F2642;
+	color: white;
+	text-align: center;
+	border-radius:  15px 80px 10px 5px;
+	font-style: Verdana (sans-serif);
+}
+
+.buttons{
+	border: 1px solid black;
+	width:50%;
+	height:50px;
+	font-size: 20px;
+	text-align: center;
+	border-radius: 50px;
+	background-color: #0F2642;
+	color: white
+	
+}
+
+.featured_image{
+	width: 50%;
+	height: 450px;
+	border-radius: 20px;
+}
+
+.content_1{
+	border: 1px solid black;
+	width:50%;
+	height:150px;
+	text-align: center;
+	font-size: 22px;
+	background-color: #0F2642;
+	color: white;
+	border-radius: 90px 15px 10px 5px;
+}
+
+.content_Main{
+	width:50%;
+	height: 500px;
+	float: right;
+}
+
+.highlights{
+		border: 1px;
+		width:
+		55%;
+		height: 55px;
+		text-align: center;
+		font-size: 20px;
+		float:right;
+		margin-right; 100px;
+		border-radius: 90px;
+		background-color: #0A1120;
+		color: white;
+}
+
+.faculty{
+	border: 1px solid black;
+		width: 100%;
+		height: 150px;
+		font-size: 20px;
+		background-color: #0F2642;
+		color: white;
+		border-radius: 90px 15px 10px 5px;
+}
+
+.fa1{
+	width: 100%;
+		height: 230px;
+		text-align: center;
+		background-color: #0F2642;
+		color: white;
+		border-radius: 90px 15px 10px 5px;
+}
+
+.img_faculty{
+	width: 50%;
+	height: 150px;
+	float: right;
+	border-radius:  15px 80px 10px 5px;
+}
+
+.students{
+	border: 1px solid black;
+		width: 100%;
+		height: 230px;
+		font-size: 20px;
+			background-color: #0A1120;
+		color: white;
+		border-radius: 10px;
+}
+
+.stu.title{
+		width: 20%;
+		height: 50px;
+		float: left;
+		
+}
+.img_students1{
+	width: 50%;
+	height: 100px;
+	float: right;
+	border-radius: 10px;
+}
+
+.img_students2{
+	width: 50%;
+	height: 150px;
+	float: left;
+	border-radius: 10px;
+}
+
+.std{
+		width: 50%;
+		height: 100px;
+		text-align: left;
+		float:right;
+}
+
+.oath{
+		border: 1px solid black;
+		width: 100%;
+		height: 180px;
+		font-size: 20px;
+		background-color: #0F2642;
+		color: white;
+		border-radius:  10px 10px 	80px 5px;
+}
+
+.oath_content{
+		width: 50%;
+		height: 130px;
+		float: right;
+		background-color: #0F2642;
+		color: white;
+		border-radius:  10px 10px 	80px 5px;
+		
+}
+
+.img_oath{
+	width: 50%;
+	height: 150px;
+	float: left;
+	border-radius: 90px 15px 10px 5px;
+}
+
+.contact{
+	border: 1px solid black;
+	width: 50%;
+	height: 70px;
+	text-align: center;
+	background-color: #0F2642;
+	font-size: 30px;
+	font-style: bold;
+	color: white;
+	border-radius: 90px;
+}
+
+.footer {  
+	position: relative;  
+	margin: 2px;
+	padding: 2px;
+	bottom: 0px;   
+	width: 100%;  
+	height: 100px;
+	background-color: #0F2642;
+	color: white; 
+	display: flex;
+}  
+
+a:link {
+  background-color: white;
+  border-radius: 90px;
+  text-color: black;
+}
+
+.footer_UMAK{
+	width: 200%;
+	height: 2px;
+	text-align: left;
+	font-size: 10px;
+	font-style: semi-bold;
+}
+
+.footer_logo1{
+	width: 10%;
+	height: 100px;
+	float: right;
+	border-radius: 90px;
+}
+
+.link1{
+	width: 50%;
+	height: 10px;
+	text-align: left;
+	font-size: 10px;
+	flex-grow: 2;
+    margin-left:100px;
+	color: white;
+}
+
+.CCIS_STUCOUNCIL{
+	width: 40%;
+	height: 50px;
+	float: left;
+	border-radius: 90px;
+}
+
+.link2{
+	width: 50%;
+	height: 10px;
+	text-align: left;
+	font-size: 10px;
+	 float: left;
+     margin-left:100px;
+	 color: white;
+}
+
+.COMSOC{
+	width: 40%;
+	height: 50px;
+	float: left;
+	border-radius: 90px;
+}
